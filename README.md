@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey Clapton</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Vuejs, data structure and patterns**
+- 🌱 I’m currently learning **React, Code quality, data structure and patterns**
 
 - 💬 Ask me about **Angularjs, CSS, Git, SASS, JavaScript, Html**
 
